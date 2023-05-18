@@ -10,7 +10,6 @@ blog({
   favicon: "https://www.gravatar.com/avatar/a164966f7def242e279fa521c323d106?s=50",
   avatarClass: "rounded-full",
   links: [
-    { title: "Email", url: "mailto:tangtianbo25@outlook.com" },
     { title: "GitHub", url: "https://github.com/NoirVoider" },
     { title: "Twitter", url: "https://twitter.com/b7o5m" }
   ],
